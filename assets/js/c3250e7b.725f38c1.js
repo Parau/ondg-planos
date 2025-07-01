@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkondg_planos=self.webpackChunkondg_planos||[]).push([[680],{6986:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/ondg-planos/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

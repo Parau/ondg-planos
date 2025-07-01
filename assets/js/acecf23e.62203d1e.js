@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkondg_planos=self.webpackChunkondg_planos||[]).push([[903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/ondg-planos/blog","blogTitle":"Blog","authorsListPath":"/ondg-planos/blog/authors"}')}}]);
